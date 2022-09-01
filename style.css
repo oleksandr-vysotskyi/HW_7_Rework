@@ -57,6 +57,10 @@ body {
     
 }
 
+a {
+  color: #000000;
+}
+
 .title {
     max-width: 1110px;
     margin: auto;
