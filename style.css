@@ -1,0 +1,287 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Section 1*/
+
+.container {
+    max-width: 1920px;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    background: #EEEFF1;
+    padding-top: 79px;
+    padding-bottom: 141px;
+  
+}
+
+.header-inner {
+    max-width: 1110px;
+    margin: auto;
+}
+
+.title_text{
+   margin-bottom: 60px;
+   margin-top: 162px;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 48px;
+   line-height: 79px;
+   color: #000000;
+}
+
+.menu-item_1 {
+    margin-right: 42px;
+   
+}
+
+.menu-item_2 {
+    margin-right: 42px;
+    
+}
+
+.menu-item_3 {
+    margin-right: 42px;
+    
+}
+
+.menu-item_4 {
+    margin-right: 42px;
+}
+
+.menu-item_5 {
+    margin-right: 42px;
+    
+}
+
+.body_text_1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+.btn {
+    padding: 19px 41px 20px 41px;
+    margin-top: 65px;
+    background: #34547A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/*Section 2*/
+
+.header_about_me {
+    padding: 112px 0 100px 0;
+    background: #FFFFFF;
+   
+}
+
+.body_inner {
+   
+}
+
+.header_text {
+    margin-bottom: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+
+.body_text_2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
+
+.header_text_2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.body_text_2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+/*Section 3*/
+
+.projects {
+    background: #34547A;
+}
+
+.project_group {
+    padding: 100px 0 100px 0;
+    margin: auto;
+   
+}
+
+ul>li {
+    display: inline-block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+ }
+
+ figcaption {
+    float: right;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+ }
+
+ .descr {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+ }
+
+ .logo_1 {
+    margin-left: 20px;
+    margin-right: 45px;
+ }
+
+ .logo_2 {
+    margin-left: 20px;
+    margin-right: 45px;
+ }
+ 
+ .logo_3 {
+    margin-left: 20px;
+    margin-right: 45px;
+ }
+
+ .logo_4 {
+    margin-left: 20px;
+    margin-right: 45px;
+ }
+
+ .logo_5 {
+    margin-left: 20px;
+    margin-right: 45px;
+ }
+
+ .logo_6 {
+    margin-left: 20px;
+ }
+
+
+/*header_bottom"*/
+
+.header_bottom {
+    padding: 100px 0 100px 0;
+}
+
+.bottom-inner {
+   max-width: 1110px;
+   margin: auto;
+}
+
+.body_text_3 {
+    margin-bottom: 57px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
+
+.footer {
+    background: #34547A;
+    padding: 50px 0 50px 0;
+}
+.footer-inner {
+   max-width: 1110px;
+   margin: auto;
+
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+h3 {
+    padding-left: 500px;
+    padding-top:25px;
+    padding-bottom: 5px;
+}
+
+h4 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+h4 {
+    padding-left: 500px;
+    padding-top:5px;
+    padding-bottom: 35px;
+}
+
+.footer_text_1 {
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.footer_text_2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
