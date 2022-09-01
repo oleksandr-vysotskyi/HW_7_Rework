@@ -57,6 +57,11 @@ body {
     
 }
 
+.title {
+    max-width: 1110px;
+    margin: auto;
+}
+
 .body_text_1 {
     font-family: 'Roboto';
     font-style: normal;
@@ -86,10 +91,6 @@ body {
 .header_about_me {
     padding: 112px 0 100px 0;
     background: #FFFFFF;
-   
-}
-
-.body_inner {
    
 }
 
